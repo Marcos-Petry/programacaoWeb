@@ -46,5 +46,15 @@
 
 <h1>Menu Horizontal</h1>
 <li><a href="menuHorizontal.html">Menu horizontal</a></li>
+
+<hr>
+
+<h1>Lista exercícios CSS</h1>
+<li><a href="atividadeCss/ativ01a03.html">Atividade 01, 02 e 03</a></li>
+<li><a href="atividadeCss/ativ04.html">Atividade 04</a></li>
+<li><a href="atividadeCss/ativ05.html">Atividade 05</a></li>
+<li><a href="atividadeCss/ativ06.html">Atividade 06</a></li>
+<li><a href="atividadeCss/ativ08.html">Atividade 08</a></li>
+
 </body>
 </html>
