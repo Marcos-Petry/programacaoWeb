@@ -1,0 +1,16 @@
+/* Estilização da lista */
+.custom-list {
+    list-style: none; /* Removendo o marcador padrão */
+    padding-left: 0; /* Removendo o espaço à esquerda */
+}
+
+/* Definindo a imagem como marcador da lista */
+.custom-list li::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/17/17004.png'); /* Substitua 'icone.png' pelo caminho correto da imagem */
+    background-size: cover;
+    margin-right: 8px; /* Espaçamento entre a imagem e o texto do item */
+}
